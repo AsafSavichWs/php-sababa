@@ -1,7 +1,7 @@
 {
     "name": "asafsavich/php-test",
     "description": "Sababa",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
