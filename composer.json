@@ -1,0 +1,15 @@
+{
+    "name": "asafsavich/php-test",
+    "description": "Sababa",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asaf Savich",
+            "email": "asaf.savich@whitesourcesoftware.com"
+        }
+    ],
+    "require": {
+        "paragonie/random_compat": "^9.99"
+    }
+}
