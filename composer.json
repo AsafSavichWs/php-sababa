@@ -9,6 +9,7 @@
             "email": "asaf.savich@whitesourcesoftware.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "paragonie/random_compat": "^9.99"
     }
